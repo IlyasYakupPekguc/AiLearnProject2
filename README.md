@@ -14,7 +14,9 @@ First of all i'm a second grade student at Gazi University. I want to see what a
 
 
 2----------------------------------------- CODING NOTES:
-
+This time i'm goingto try and use jupiter notebook instead of a direct python program. If this benifits the code more and is easier to use than i will contineu with jupiter Notebook.
+My reason to try JNB is so i don't have to comment out coding parts that i do not to need use twice. Because if i have to comment out parts than that can become
+confusing if i read the code in the future again. 
 
 
 
